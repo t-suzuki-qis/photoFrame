@@ -1,4 +1,4 @@
-# pwp
+# photo
 
 ## Initial Setup
 
